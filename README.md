@@ -5,7 +5,7 @@
 - <b>Bulldozer Sale Price Predioction (Regression)</b>
   - [End_To_End-Bulldozer-Price-Prediction](https://github.com/AchiKris/End_To_End-Bulldozer-Price-Prediction/blob/main/README.md)
 - <b>Bulldozer Sale Price Predioction (Regression)</b>
-  - [End_To_End-Heart-Disease-Prediction](https://github.com/AchiKris/End_To_End-Bulldozer-Price-Prediction/blob/main/README.md)
+  - [End_To_End-Heart-Disease-Prediction](https://github.com/AchiKris/End_To_End_Heart_Disease_Prediction/main/README.md)
   
 <h2>📺 Popular YouTube Videos</h2>
 
