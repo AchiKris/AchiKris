@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Bulldozer Sale Price Predioction (Regression)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [End_To_End-Bulldozer-Price-Prediction](https://github.com/AchiKris/End_To_End-Bulldozer-Price-Prediction/blob/main/README.md)
 - <b>Heart Disease Detection (Classification)</b>
   
 <h2>📺 Popular YouTube Videos</h2>
