@@ -11,9 +11,6 @@
 
 [<img align="left" alt="AchiKris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
-**AchiKris/AchiKris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AchiKris | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -25,5 +22,8 @@
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com//
 [linkedin]: https://www.linkedin.com/in/chrisachi/
+
+<!--
+**AchiKris/AchiKris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
