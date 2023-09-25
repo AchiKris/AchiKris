@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kris! <br/><a href="https://github.com/Achikris">Business Data Analyst</a>, <a href="https://www.linkedin.com/in/chrisachi/">Data Scientist</a></h1>
+<h1>Hi, I'm Kris! <br/><a href="https://github.com/Achikris">Business Data Analyst</a>, <a href="https://www.linkedin.com/in/chrisachi/">Data Scientist</a></h1> and <a href="https://github.com/Achikris">Machine Learning Engineer</a>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
